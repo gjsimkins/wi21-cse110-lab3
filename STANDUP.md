@@ -1,0 +1,6 @@
+NAME
+What have you done this week so far?
+What do you still have to do this week?
+Are you on track to finish as planned?
+What issues are you having? 
+How are you doing?
