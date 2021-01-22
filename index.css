@@ -130,7 +130,16 @@ select {
 }
 
 /* Schedule */
-
+th, td {
+    border: solid black 2px;
+    padding: 5px;
+}
+td {
+    width: 60px;
+}
+th{
+    font-size: 2em;
+}
 
 /* Footer */
 nav {
