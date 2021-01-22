@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(0, 149, 160);
+    margin: 0;
+    padding-bottom: 20px;
+}
+header > h1{
+    color: white;
+    padding: 30px;
+    padding-bottom: 15px;
+    font-size: 5em;
+}
+header img {
+    border: solid black;
+    margin-bottom: 10px;
+}
+.intro{
+    width: 40%;
+}
+.intro > p {
+    color: white;
+    text-align: center;
+    font-size: 1em;
+}
+.form-row{
+    background-color: #a4c0ed;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+    padding: 5px;
+}
