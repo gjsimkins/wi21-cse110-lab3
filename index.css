@@ -31,6 +31,33 @@ header img {
     text-align: center;
     font-size: 1em;
 }
+.info{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 50% auto;
+    justify-self: stretch;
+}
+.projects, .skills{
+    margin: 20px 20px 20px 20px;
+    padding-left: 30px;
+    display: inline-block;
+}
+.projects > aside {
+    font-size: .8em;
+    font-weight: 100;
+}
+h2 {
+    font-size: 2.75em;
+    text-align: center;
+}
+hr {
+    border-top: 4px solid darkcyan;
+    border-radius: 4px;
+    margin: 2mm;
+}
+ol, ul > li{
+    font-size: 1.15em;
+}
 .form-row{
     background-color: #a4c0ed;
     border-style: solid;
